@@ -25,7 +25,7 @@ This loader is based on plugins, modules for your bot. They can :
 
 - Register commands
 - Run scripts when the bot starts
-- Add rvent listeners
+- Add event listeners
   There are to types of plugins, simple and multi.
   Simples plugins does just one thing. Multi plugins do many things
 
